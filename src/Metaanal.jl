@@ -9,8 +9,7 @@ and also contains the scripts
 """
 
 
-using DataFrames, CairoMakie, GLM, HypothesisTests, Distributions
-CairoMakie.activate!
+
 
 # -- beginning of export and include block
 # Write the exports
